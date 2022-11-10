@@ -307,7 +307,6 @@ footer{
 /*Quienes somos*/
     .somos{
         flex-wrap: wrap;
-        background-color: #6CC4A1;
     }
     .texto_somos h2{
         padding: 2px 5px 0 10px;
@@ -377,6 +376,7 @@ footer{
 /*Quienes somos*/
 .somos{
         flex-wrap: wrap;
+        background-color: #6CC4A1;
     }
 .texto_somos h2{
     padding: 2px 5px 0 10px;
